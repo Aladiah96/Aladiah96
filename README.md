@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/aladiah"><img src="https://api.daily.dev/devcards/ff1ca078e7bc4af388f0e49e96c66789.png?r=xrw" width="400" alt="Wagner's Dev Card"/></a>
 <!--
 **Aladiah96/Aladiah96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
