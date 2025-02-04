@@ -8,7 +8,7 @@ I'm a fullstack developer passionate about building scalable applications and ex
 ## 🚀 Tech Stack
 
 ### Frontend
-- React, Next.js, Angularm Vue
+- React, Next.js, Vue
 - TypeScript, Tailwind CSS, ShadCNUI, ChakraUI
 - HTML, CSS, SCSS
 
